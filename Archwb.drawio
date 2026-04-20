@@ -43,7 +43,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="cEAS5uTzwE0EhiJeRm6o" name="Page-2">
+  <diagram id="cEAS5uTzwE0EhiJeRm6o" name="Architecture">
     <mxGraphModel dx="1086" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -75,7 +75,7 @@
         <mxCell id="nLLT05dDzt7-9ZN2rWak-12" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nLLT05dDzt7-9ZN2rWak-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nLLT05dDzt7-9ZN2rWak-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agents/Model/Agentic/Multi&amp;nbsp; Orchestration/Tools/MCP" vertex="1">
+        <mxCell id="nLLT05dDzt7-9ZN2rWak-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agents/Model/Agentic/Multi&amp;nbsp; Orchestration/Tools/MCP/Short/long terms memory" vertex="1">
           <mxGeometry height="60" width="190" x="150" y="390" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-7" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nLLT05dDzt7-9ZN2rWak-3" value="">

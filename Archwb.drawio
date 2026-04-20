@@ -19,6 +19,9 @@
         <mxCell id="MjL1HR9PDZ4IUghRATfm-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" value="&lt;b&gt;Model Strategy&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li data-section-id=&quot;ej6sr8&quot; data-start=&quot;1957&quot; data-end=&quot;2031&quot;&gt;Which models are we expected to use—open-source, proprietary, or both?&lt;/li&gt;&lt;li data-section-id=&quot;k9783z&quot; data-start=&quot;2032&quot; data-end=&quot;2096&quot;&gt;Do we need fine-tuning, or is prompt engineering sufficient?&lt;/li&gt;&lt;li data-section-id=&quot;vz68ma&quot; data-start=&quot;2097&quot; data-end=&quot;2163&quot;&gt;What are the latency and cost constraints for model inference?&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="180" width="180" x="360" y="400" as="geometry" />
         </mxCell>
+        <mxCell id="MjL1HR9PDZ4IUghRATfm-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" value="&lt;b&gt;Tools &amp;amp; integration &amp;amp; A2A&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li data-section-id=&quot;1bcpe2a&quot; data-start=&quot;2269&quot; data-end=&quot;2355&quot;&gt;What external systems should the agent interact with (APIs, databases, workflows)?&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li data-section-id=&quot;551yrc&quot; data-start=&quot;2356&quot; data-end=&quot;2440&quot;&gt;Do we need transactional actions (e.g., updating systems, triggering workflows)?&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="180" x="620" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

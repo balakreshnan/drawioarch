@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" pages="3">
   <diagram name="Questions" id="ap0p5e1snfkXhYOteo62">
     <mxGraphModel dx="1086" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,6 +121,64 @@
           <mxGeometry relative="1" x="-0.0057" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sUkHyppUsW7d7Fw0nMPg" name="Data Architecture">
+    <mxGraphModel dx="1086" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-7" edge="1" parent="1" source="0dFaTsLToy_shMZ4WQ78-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0dFaTsLToy_shMZ4WQ78-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-1" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Data Sources - Industrial, Business" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-8" edge="1" parent="1" source="0dFaTsLToy_shMZ4WQ78-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0dFaTsLToy_shMZ4WQ78-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ingestion Layer/Streaming/batch" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-9" edge="1" parent="1" source="0dFaTsLToy_shMZ4WQ78-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0dFaTsLToy_shMZ4WQ78-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Raw/Bronze Zone" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-10" edge="1" parent="1" source="0dFaTsLToy_shMZ4WQ78-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0dFaTsLToy_shMZ4WQ78-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCwql7HSGlanaGhIWcv-4" edge="1" parent="1" source="0dFaTsLToy_shMZ4WQ78-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OZCwql7HSGlanaGhIWcv-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Silver, cleaned, dedup, standardization" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-11" edge="1" parent="1" source="0dFaTsLToy_shMZ4WQ78-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0dFaTsLToy_shMZ4WQ78-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Curated Zone - Gold, business ready dataset" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="0dFaTsLToy_shMZ4WQ78-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Consumption Layer, BI, UI, Api, Agents" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="OZCwql7HSGlanaGhIWcv-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=37;startSize=6.44;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="240" y="780" as="sourcePoint" />
+            <mxPoint x="240" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OZCwql7HSGlanaGhIWcv-2" connectable="0" parent="OZCwql7HSGlanaGhIWcv-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;" value="Security, Governance, Observability, Tracing" vertex="1">
+          <mxGeometry relative="1" x="-0.0057" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OZCwql7HSGlanaGhIWcv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data Quality. MDM" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

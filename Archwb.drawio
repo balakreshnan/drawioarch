@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="29.3.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0">
   <diagram name="Page-1" id="ap0p5e1snfkXhYOteo62">
-    <mxGraphModel>
+    <mxGraphModel dx="1086" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MjL1HR9PDZ4IUghRATfm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Business Intent&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li data-section-id=&quot;cthk9r&quot; data-start=&quot;682&quot; data-end=&quot;790&quot;&gt;What specific tasks should the agent perform—Q&amp;amp;A, decision support, automation, or multi-step workflows?&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Is the agent assisting humans or acting autonomously?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;What level of accuracy or trust is required for decisions?&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="190" x="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MjL1HR9PDZ4IUghRATfm-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" value="&lt;b&gt;Agent Behavior &amp;amp; Reasoning&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li data-section-id=&quot;1s06hjv&quot; data-start=&quot;1063&quot; data-end=&quot;1138&quot;&gt;Should the agent perform multi-step reasoning or single-turn responses?&lt;/li&gt;&lt;li data-section-id=&quot;1krxzta&quot; data-start=&quot;1139&quot; data-end=&quot;1206&quot;&gt;Do we need tool usage (e.g., querying databases, calling APIs)?&lt;/li&gt;&lt;li data-section-id=&quot;1y70ycx&quot; data-start=&quot;1207&quot; data-end=&quot;1264&quot;&gt;Should the agent maintain memory across interactions?&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="360" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MjL1HR9PDZ4IUghRATfm-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;Data Grounding - RAG/Agentic RAG&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li data-section-id=&quot;1ikznp&quot; data-start=&quot;1364&quot; data-end=&quot;1444&quot;&gt;What data sources will ground the agent (documents, tables, streaming data)?&lt;/li&gt;&lt;li data-section-id=&quot;1ikznp&quot; data-start=&quot;1364&quot; data-end=&quot;1444&quot;&gt;How frequently does the data change?&lt;/li&gt;&lt;li data-section-id=&quot;y6fcwd&quot; data-start=&quot;1486&quot; data-end=&quot;1542&quot;&gt;Do we need real-time retrieval or periodic indexing?&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="630" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MjL1HR9PDZ4IUghRATfm-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;Retrieval and Context Strategy&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li data-section-id=&quot;19ut3uz&quot; data-start=&quot;1709&quot; data-end=&quot;1758&quot;&gt;What level of retrieval accuracy is required?&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li data-section-id=&quot;1escgrx&quot; data-start=&quot;1759&quot; data-end=&quot;1807&quot;&gt;Do we need hybrid search (keyword + vector)?&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li data-section-id=&quot;o13am7&quot; data-start=&quot;1808&quot; data-end=&quot;1851&quot;&gt;How large should the context window be?&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="180" x="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="MjL1HR9PDZ4IUghRATfm-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" value="&lt;b&gt;Model Strategy&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li data-section-id=&quot;ej6sr8&quot; data-start=&quot;1957&quot; data-end=&quot;2031&quot;&gt;Which models are we expected to use—open-source, proprietary, or both?&lt;/li&gt;&lt;li data-section-id=&quot;k9783z&quot; data-start=&quot;2032&quot; data-end=&quot;2096&quot;&gt;Do we need fine-tuning, or is prompt engineering sufficient?&lt;/li&gt;&lt;li data-section-id=&quot;vz68ma&quot; data-start=&quot;2097&quot; data-end=&quot;2163&quot;&gt;What are the latency and cost constraints for model inference?&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="180" x="360" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -49,7 +49,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eiazPfVoM9D1srOy8494-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data Layer" vertex="1">
-          <mxGeometry height="60" width="190" x="150" y="710" as="geometry" />
+          <mxGeometry height="60" width="190" x="184" y="710" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-10" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eiazPfVoM9D1srOy8494-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Grounding - RAG- Chunking, SQL" vertex="1">
-          <mxGeometry height="60" width="190" x="150" y="600" as="geometry" />
+          <mxGeometry height="60" width="190" x="184" y="600" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-9" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nLLT05dDzt7-9ZN2rWak-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retrieval/Agentic Retrieval/Semantic, Hybrid, Vector" vertex="1">
-          <mxGeometry height="60" width="190" x="150" y="490" as="geometry" />
+          <mxGeometry height="60" width="190" x="184" y="490" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-8" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nLLT05dDzt7-9ZN2rWak-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -76,34 +76,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agents/Model/Agentic/Multi&amp;nbsp; Orchestration/Tools/MCP/Short/long terms memory" vertex="1">
-          <mxGeometry height="60" width="190" x="150" y="390" as="geometry" />
+          <mxGeometry height="60" width="190" x="184" y="390" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-7" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nLLT05dDzt7-9ZN2rWak-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nLLT05dDzt7-9ZN2rWak-20" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nLLT05dDzt7-9ZN2rWak-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent Serving layer/API/MCP/A2A" vertex="1">
-          <mxGeometry height="60" width="190" x="150" y="290" as="geometry" />
+          <mxGeometry height="60" width="190" x="184" y="290" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-6" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nLLT05dDzt7-9ZN2rWak-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="User Interface, Chat, Mobile, UI, Dashboard, Voice" vertex="1">
-          <mxGeometry height="60" width="190" x="150" y="190" as="geometry" />
+          <mxGeometry height="60" width="190" x="184" y="190" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-16" edge="1" parent="1" source="nLLT05dDzt7-9ZN2rWak-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nLLT05dDzt7-9ZN2rWak-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nLLT05dDzt7-9ZN2rWak-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent/Model - Eval, Security" vertex="1">
-          <mxGeometry height="60" width="170" x="420" y="390" as="geometry" />
+        <mxCell id="nLLT05dDzt7-9ZN2rWak-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent/Model - Eval, Security, Conversation, Agent context" vertex="1">
+          <mxGeometry height="60" width="170" x="454" y="390" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Evaluation" vertex="1">
-          <mxGeometry height="60" width="170" x="420" y="490" as="geometry" />
+          <mxGeometry height="60" width="170" x="454" y="490" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fine tuning" vertex="1">
-          <mxGeometry height="60" width="120" x="630" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="664" y="390" as="geometry" />
         </mxCell>
         <mxCell id="nLLT05dDzt7-9ZN2rWak-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data Ingestion" vertex="1">
-          <mxGeometry height="60" width="170" x="420" y="600" as="geometry" />
+          <mxGeometry height="60" width="170" x="454" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="nLLT05dDzt7-9ZN2rWak-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Serving Memory" vertex="1">
+          <mxGeometry height="60" width="120" x="454" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nLLT05dDzt7-9ZN2rWak-21" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=37;startSize=6.44;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="94" y="770" as="sourcePoint" />
+            <mxPoint x="94" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nLLT05dDzt7-9ZN2rWak-22" connectable="0" parent="nLLT05dDzt7-9ZN2rWak-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;" value="Security, Governance, Observability, Tracing" vertex="1">
+          <mxGeometry relative="1" x="-0.0057" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

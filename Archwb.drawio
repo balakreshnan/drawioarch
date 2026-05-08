@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" pages="6">
   <diagram name="Questions" id="ap0p5e1snfkXhYOteo62">
     <mxGraphModel dx="1086" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -348,6 +348,65 @@
         </mxCell>
         <mxCell id="ZyIGrPjdZWJIAhl3nRIp-2" edge="1" parent="1" source="ZyIGrPjdZWJIAhl3nRIp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.192;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="YHT9_A4pWAQqeBsG_v4R-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rDYtPsrOyxQWmaKP3BaW" name="Page-6">
+    <mxGraphModel dx="1325" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data Soruces" vertex="1">
+          <mxGeometry height="40" width="100" x="180" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="X,signal,whatsup,&lt;div&gt;Truthsocial, Bluesky, others&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enterprise Apps" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Slack, teams, Meet, others" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SnapChat/TikTok&lt;div&gt;Others&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Search Engine, Web data" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buying Pattern" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="In house Apps" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Streaming/Batch Ingestion" vertex="1">
+          <mxGeometry height="40" width="100" x="320" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bronze/&lt;div&gt;Raw&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="460" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Silver" vertex="1">
+          <mxGeometry height="40" width="60" x="560" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gold" vertex="1">
+          <mxGeometry height="40" width="60" x="650" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Genie Workspace" vertex="1">
+          <mxGeometry height="40" width="100" x="750" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent" vertex="1">
+          <mxGeometry height="40" width="70" x="890" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Unity Catalog" vertex="1">
+          <mxGeometry height="30" width="250" x="460" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Docs/pdf" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="z4sNWDSqnFCft0QPNOIe-17" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="30" x="1010" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

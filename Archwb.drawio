@@ -361,25 +361,25 @@
           <mxGeometry height="40" width="100" x="180" y="340" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="X,signal,whatsup,&lt;div&gt;Truthsocial, Bluesky, others&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="90" x="50" y="210" as="geometry" />
+          <mxGeometry height="40" width="112" x="20" y="188" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enterprise Apps" vertex="1">
-          <mxGeometry height="40" width="90" x="50" y="470" as="geometry" />
+          <mxGeometry height="40" width="90" x="42" y="448" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Slack, teams, Meet, others" vertex="1">
-          <mxGeometry height="40" width="90" x="50" y="280" as="geometry" />
+          <mxGeometry height="40" width="90" x="42" y="258" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SnapChat/TikTok&lt;div&gt;Others&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="90" x="50" y="130" as="geometry" />
+          <mxGeometry height="40" width="90" x="42" y="108" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Search Engine, Web data" vertex="1">
-          <mxGeometry height="40" width="90" x="50" y="340" as="geometry" />
+          <mxGeometry height="40" width="90" x="42" y="318" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buying Pattern" vertex="1">
-          <mxGeometry height="40" width="90" x="50" y="400" as="geometry" />
+          <mxGeometry height="40" width="90" x="42" y="378" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="In house Apps" vertex="1">
-          <mxGeometry height="40" width="90" x="50" y="540" as="geometry" />
+          <mxGeometry height="40" width="90" x="42" y="518" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Streaming/Batch Ingestion" vertex="1">
           <mxGeometry height="40" width="100" x="320" y="340" as="geometry" />
@@ -403,7 +403,7 @@
           <mxGeometry height="30" width="250" x="460" y="240" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Docs/pdf" vertex="1">
-          <mxGeometry height="40" width="90" x="50" y="610" as="geometry" />
+          <mxGeometry height="40" width="90" x="42" y="588" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-17" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="30" x="1010" y="340" as="geometry" />

@@ -526,6 +526,18 @@
         <mxCell id="6HVn8sG8UKcVC-dSCO_2-20" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Social Media Feeds" vertex="1">
           <mxGeometry height="50" width="90" x="960" y="470" as="geometry" />
         </mxCell>
+        <mxCell id="6HVn8sG8UKcVC-dSCO_2-23" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Industry Updates" vertex="1">
+          <mxGeometry height="50" width="90" x="960" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="6HVn8sG8UKcVC-dSCO_2-24" edge="1" parent="1" source="6HVn8sG8UKcVC-dSCO_2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.685;entryY=1.087;entryDx=0;entryDy=0;entryPerimeter=0;" target="6HVn8sG8UKcVC-dSCO_2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6HVn8sG8UKcVC-dSCO_2-25" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Product/Compliance Docs - Index" vertex="1">
+          <mxGeometry height="50" width="90" x="960" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="6HVn8sG8UKcVC-dSCO_2-26" edge="1" parent="1" source="6HVn8sG8UKcVC-dSCO_2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.889;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="6HVn8sG8UKcVC-dSCO_2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

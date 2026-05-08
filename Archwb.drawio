@@ -463,6 +463,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6HVn8sG8UKcVC-dSCO_2-27" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="460" x="440" y="315" as="geometry" />
+        </mxCell>
         <mxCell id="6HVn8sG8UKcVC-dSCO_2-16" edge="1" parent="1" source="6HVn8sG8UKcVC-dSCO_2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6HVn8sG8UKcVC-dSCO_2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -493,7 +496,7 @@
         <mxCell id="6HVn8sG8UKcVC-dSCO_2-5" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Inegstion" vertex="1">
           <mxGeometry height="50" width="90" x="280" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="6HVn8sG8UKcVC-dSCO_2-9" edge="1" parent="1" source="6HVn8sG8UKcVC-dSCO_2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6HVn8sG8UKcVC-dSCO_2-8" value="">
+        <mxCell id="6HVn8sG8UKcVC-dSCO_2-29" edge="1" parent="1" source="6HVn8sG8UKcVC-dSCO_2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6HVn8sG8UKcVC-dSCO_2-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6HVn8sG8UKcVC-dSCO_2-6" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="Data Cleaning" vertex="1">
@@ -537,6 +540,9 @@
         </mxCell>
         <mxCell id="6HVn8sG8UKcVC-dSCO_2-26" edge="1" parent="1" source="6HVn8sG8UKcVC-dSCO_2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.889;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="6HVn8sG8UKcVC-dSCO_2-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6HVn8sG8UKcVC-dSCO_2-31" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" value="Unity Catalog/ Data and AI Governance - Security" vertex="1">
+          <mxGeometry height="40" width="599" x="441" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

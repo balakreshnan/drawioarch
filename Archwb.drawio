@@ -358,7 +358,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="z4sNWDSqnFCft0QPNOIe-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Data Soruces" vertex="1">
-          <mxGeometry height="40" width="100" x="180" y="340" as="geometry" />
+          <mxGeometry height="40" width="90" x="189" y="340" as="geometry" />
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="X,signal,whatsup,&lt;div&gt;Truthsocial, Bluesky, others&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="112" x="20" y="188" as="geometry" />

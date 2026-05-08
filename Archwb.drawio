@@ -383,7 +383,7 @@
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-28" edge="1" parent="1" source="z4sNWDSqnFCft0QPNOIe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="338" as="targetPoint" />
+            <mxPoint x="240" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z4sNWDSqnFCft0QPNOIe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Search Engine, Web data" vertex="1">

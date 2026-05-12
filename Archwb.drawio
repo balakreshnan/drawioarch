@@ -592,7 +592,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NSYIi6THiL69ZL_gjMH8-9" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="32" width="20" x="610" y="301" as="geometry" />
+          <mxGeometry height="23" width="20" x="610" y="306" as="geometry" />
         </mxCell>
         <mxCell id="NSYIi6THiL69ZL_gjMH8-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Postgres" vertex="1">
           <mxGeometry height="35" width="95" x="407" y="440" as="geometry" />

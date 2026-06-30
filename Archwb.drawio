@@ -665,6 +665,21 @@
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Desktop App" vertex="1">
           <mxGeometry height="60" width="120" x="571" y="520" as="geometry" />
         </mxCell>
+        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-23" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fall Back" vertex="1">
+          <mxGeometry height="60" width="120" x="171" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-25" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Perplexity, Claude" vertex="1">
+          <mxGeometry height="60" width="120" x="371" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Web UI" vertex="1">
+          <mxGeometry height="60" width="120" x="571" y="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

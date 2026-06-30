@@ -183,8 +183,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HGtqnhsRsf4_-v-mt_0W" name="Page-4">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="HGtqnhsRsf4_-v-mt_0W" name="Use Case">
+    <mxGraphModel dx="1325" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Szdi2XPS84Llpxcx8WgB" name="Page-5">
+  <diagram id="Szdi2XPS84Llpxcx8WgB" name="FinArch">
     <mxGraphModel dx="1325" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -352,7 +352,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rDYtPsrOyxQWmaKP3BaW" name="Page-6">
+  <diagram id="rDYtPsrOyxQWmaKP3BaW" name="DataArch">
     <mxGraphModel dx="1325" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -547,8 +547,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fqVPc0hrvBhi48JzSM5z" name="Page-8">
-    <mxGraphModel dx="1347" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="fqVPc0hrvBhi48JzSM5z" name="AzureRes">
+    <mxGraphModel dx="1325" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,7 +600,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="O257vU2wRzXKNdwOH5_C" name="Page-9">
+  <diagram id="O257vU2wRzXKNdwOH5_C" name="ModelsUse">
     <mxGraphModel dx="1325" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -680,16 +680,7 @@
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Web UI" vertex="1">
           <mxGeometry height="60" width="120" x="571" y="613" as="geometry" />
         </mxCell>
-        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="400" y="397" as="geometry" />
-        </mxCell>
-        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="400" y="397" as="geometry" />
-        </mxCell>
-        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="400" y="397" as="geometry" />
-        </mxCell>
-        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Model Decision - How do i use different models&lt;/font&gt;" vertex="1">
+        <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Modern Tech Stack for Software Engineering&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="409" x="221" y="50" as="geometry" />
         </mxCell>
       </root>

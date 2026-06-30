@@ -609,76 +609,76 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Creating blog, documentation, posts" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="170" y="106" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-8" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ChatGPT, Grok" vertex="1">
-          <mxGeometry height="60" width="120" x="370" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="370" y="106" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-6" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="For Coding" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="290" as="geometry" />
+          <mxGeometry height="60" width="120" x="170" y="236" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-10" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Opus 4.8, gpt 5.5, Grok" vertex="1">
-          <mxGeometry height="60" width="120" x="370" y="290" as="geometry" />
+          <mxGeometry height="60" width="120" x="370" y="236" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Web UI" vertex="1">
-          <mxGeometry height="60" width="120" x="570" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="570" y="106" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="VS Code, GitHub Copilot App" vertex="1">
-          <mxGeometry height="60" width="120" x="570" y="290" as="geometry" />
+          <mxGeometry height="60" width="120" x="570" y="236" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-13" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Research" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="170" y="356" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-15" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Co Work/Researcher" vertex="1">
-          <mxGeometry height="60" width="120" x="370" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="370" y="356" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Web UI" vertex="1">
-          <mxGeometry height="60" width="120" x="570" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="570" y="356" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-18" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Long tasks" vertex="1">
-          <mxGeometry height="60" width="120" x="171" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="171" y="466" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-20" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Scout/Claw" vertex="1">
-          <mxGeometry height="60" width="120" x="371" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="371" y="466" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Desktop App" vertex="1">
-          <mxGeometry height="60" width="120" x="571" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="571" y="466" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-23" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-22" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fall Back" vertex="1">
-          <mxGeometry height="60" width="120" x="171" y="640" as="geometry" />
+          <mxGeometry height="60" width="120" x="171" y="586" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-25" edge="1" parent="1" source="xCiQ3_kzeUdYt9FJ8tYc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xCiQ3_kzeUdYt9FJ8tYc-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Perplexity, Claude" vertex="1">
-          <mxGeometry height="60" width="120" x="371" y="640" as="geometry" />
+          <mxGeometry height="60" width="120" x="371" y="586" as="geometry" />
         </mxCell>
         <mxCell id="xCiQ3_kzeUdYt9FJ8tYc-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Web UI" vertex="1">
-          <mxGeometry height="60" width="120" x="571" y="640" as="geometry" />
+          <mxGeometry height="60" width="120" x="571" y="586" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
